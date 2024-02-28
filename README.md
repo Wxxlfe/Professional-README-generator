@@ -1,7 +1,7 @@
-# Techblog
+# Pro README generator
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
-A blog for tech people to talk about
+An application that generates a readme file
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -14,7 +14,7 @@ A blog for tech people to talk about
 npm i
   
 ## Usage
-
+Use node index.js to run the application
   
 ## License
 This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
@@ -26,4 +26,7 @@ undefined
 npm test
   
 ## Questions
-Questions?  Email me at wxlfecod@gmail.com or visit my [wxxlfe](GitHub):
+Questions?  Email me at Wxlfecod@gmail.com or visit my [Wxxlfe](GitHub):
+
+## Video Demo
+https://drive.google.com/file/d/1DLQmTvwkHKGHFc9CuFCZe5zuUwXrgFSH/view
